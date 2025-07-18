@@ -10,3 +10,11 @@ Books and proyect of DeepLearing
 ### Español
 
 - [Inteligencia Artificial](https://www.youtube.com/@la_inteligencia_artificial)
+
+## DeepLearning
+
+### Canales de Youtube
+
+### Recursos
+  - [Netron](https://netron.app/)
+
