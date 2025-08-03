@@ -17,4 +17,5 @@ Books and proyect of DeepLearing
 
 ### Recursos
   - [Netron](https://netron.app/)
+  - [AI Engeeniering](https://aiengineering.beehiiv.com/)
 
