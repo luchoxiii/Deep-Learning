@@ -31,4 +31,5 @@ Books and proyect of DeepLearing and IA
 ### Recursos
   - [Netron](https://netron.app/)
   - [AI Engeeniering](https://aiengineering.beehiiv.com/)
+  - [Redes Neuronales](https://adamharley.com/nn_vis/cnn/3d.html)
 
