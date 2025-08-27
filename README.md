@@ -35,3 +35,6 @@ Books and proyect of DeepLearing and IA
   - [Redes Neuronales](https://adamharley.com/nn_vis/cnn/3d.html)
   - [LLM Visualization](https://bbycroft.net/llm)
 
+### Academia
+- [Open IA Academi](https://academy.openai.com/)
+
