@@ -26,7 +26,7 @@ Books and proyect of DeepLearing and IA
 - [LangChain Master](https://www.youtube.com/watch?v=Cyv-dgv80kE&t=1463s)
 - [LangChain Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F)
 - [Langchain Beginers](https://www.youtube.com/playlist?list=PLNIQLFWpQMRU1Ayjc-LX2k01Jj7uDG0rU)
-
+- [DeepLearing MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 
 ### Recursos
