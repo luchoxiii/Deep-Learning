@@ -27,6 +27,9 @@ Books and proyect of DeepLearing and IA
 - [LangChain Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F)
 - [Langchain Beginers](https://www.youtube.com/playlist?list=PLNIQLFWpQMRU1Ayjc-LX2k01Jj7uDG0rU)
 - [DeepLearing MIT](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [PyTorch desde 0](https://www.youtube.com/playlist?list=PLOrU905yPYXJsJSHJsiE779KfcrRCgz4v)
+- [Reinforce Learning](https://www.youtube.com/watch?v=OkEGJ5G3foU)
+- [DeepMind by Google](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 
 
 ### Recursos
