@@ -1,8 +1,6 @@
 # Deep-Learning
 Books and proyect of DeepLearing and IA
 
-
-
 # IA
 
 ## Divulgadores
@@ -14,6 +12,8 @@ Books and proyect of DeepLearing and IA
 ### Ingles
 
 - [AI Engenieer](https://www.youtube.com/@aiDotEngineer)
+
+
 
 ## DeepLearning
 
@@ -30,6 +30,12 @@ Books and proyect of DeepLearing and IA
 - [PyTorch desde 0](https://www.youtube.com/playlist?list=PLOrU905yPYXJsJSHJsiE779KfcrRCgz4v)
 - [Reinforce Learning](https://www.youtube.com/watch?v=OkEGJ5G3foU)
 - [DeepMind by Google](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [Hacer Agentes para Principiantes by Microsoft Developer](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC)
+- [N8N para principiantes](https://www.youtube.com/playlist?list=PLlET0GsrLUL59YbxstZE71WszP3pVnZfI)
+- [N8N full curso](https://www.youtube.com/watch?v=geR9PeCuHK4&list=PLn-yifJ-nOUPhu8ix_jkTR59uXzWqsRmJ&index=14)
+- [LangGraph & LLM](https://www.youtube.com/watch?v=Y3dbzuQBnUw&t)
+- [Aprender Agentes en 10 dias](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShaG9NCxtEPGI_37oTd89C5)
+- [LLMs from Scratchs](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 
 
 ### Recursos
