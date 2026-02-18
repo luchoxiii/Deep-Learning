@@ -47,3 +47,10 @@ Books and proyect of DeepLearing and IA
 ### Academia
 - [Open IA Academi](https://academy.openai.com/)
 
+
+
+---
+
+## Modelos de IA
+
+- [ZAi (China)](https://chat.z.ai/)
