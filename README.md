@@ -36,6 +36,7 @@ Books and proyect of DeepLearing and IA
 - [LangGraph & LLM](https://www.youtube.com/watch?v=Y3dbzuQBnUw&t)
 - [Aprender Agentes en 10 dias](https://www.youtube.com/playlist?list=PLPTV0NXA_ZShaG9NCxtEPGI_37oTd89C5)
 - [LLMs from Scratchs](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
+- [Aprender LLMs & Transformers by Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 
 ### Recursos
