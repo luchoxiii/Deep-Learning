@@ -12,6 +12,13 @@ Books and proyect of DeepLearing and IA
 ### Ingles
 
 - [AI Engenieer](https://www.youtube.com/@aiDotEngineer)
+- [The AI Advantage](https://www.youtube.com/@aiadvantage/featured)
+- [Matt Wolfe](https://www.youtube.com/@mreflow)
+- [Dan Martell](https://www.youtube.com/@danmartell)
+- [Liam Oteil](https://www.youtube.com/@LiamOttley)
+- [Jeff Su](https://www.youtube.com/@JeffSu)
+- [Ben IA](https://www.youtube.com/@BenAI92)
+- [Sabrina Ramonov](https://www.youtube.com/@sabrina_ramonov)
 
 
 
